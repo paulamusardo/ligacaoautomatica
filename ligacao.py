@@ -1,9 +1,9 @@
 from twilio.rest import Client
 
-account_sid = "AC34b0c73e3e516ab9b23180bc4ee15654"
-auth_token = "e40f498b488b651068703cd5da30daa9"
-meu_numero = "+5541998801921"
-number_twilio = "+14152372613"  
+account_sid = "..........."
+auth_token = "..........."
+meu_numero = "+554199880...."
+number_twilio = "+14152372...."  
 
 cliente = Client(account_sid, auth_token)
 
